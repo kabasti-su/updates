@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "files": {
+    "geojson": {
+      "url": "kabasti_MZs.geojson",
+      "hash": "abc123"
+    },
+    "translations": {
+      "url": "translations.json",
+      "hash": "def456"
+    }
+  }
+}
